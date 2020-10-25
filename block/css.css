@@ -1,0 +1,34 @@
+body{
+    margin:0;
+}
+.head{
+    background: orange;
+    width: 100%;
+    height: 150px;
+}
+.list{
+    display: flex;
+}
+.box{
+    width:25%;
+    height: 200px;
+    box-sizing: border-box;
+}
+.one{
+    background: red;
+
+}
+.two{
+background: green;
+}
+.three{
+background: blue;
+}
+.four{
+background: black;
+}
+.floor{
+    background: orange;
+    width: 100%;
+    height: 150px;
+}

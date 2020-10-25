@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+.header_menu{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    font-size: 10px;
+
+   }
+.nav_item{
+    margin: 5px;
+}
+.nav_item a {
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #292929;
+    text-decoration: none;
+}
+.nav_item a:hover {
+    color: #6b6868;
+}
+.logo{
+    margin: 0;
+    height: 80px;
+    background: #a42828;
+    display: flex;
+    justify-content: center;
+}
+.rozdil{
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-size: 13px;
+    margin-left: 0;
+}
+
+.text{
+    width: 400px ;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+    font-size: 10px;
+}
+.text_format{
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+
+}
+.lang{
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-size: 13px;
+    margin-right: 25px;
+
+}
+.club{
+    color: white;
+    background: #db3535;
+    font-size: 13px;
+    border: 3px solid rgb(252, 252, 252);
+    border-radius: 35%;
+    padding: 5px;
+    margin: auto;
+    margin-left: 0;
+    margin-right: 25px;
+}
+.menu2{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    font-size: 15px;
+
+}
